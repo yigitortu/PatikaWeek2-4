@@ -1,29 +1,36 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
-        int[] list = {15, 12, 788, 1, -1, -778, 2, 0};
-        int userValue = 5;
+        int[] list = {15, 12, 788, 1, -1, -788, 2, 0};
 
-        // Diziyi sıralayalım.
-        Arrays.sort(list);
-        System.out.println(Arrays.toString(list));
+        Arrays.sort(list);// Küçükten büyüğe sıralayalım.
+        System.out.println(Arrays.toString(list)); // Yazdıralım.
 
-        // Yakın ve Yüksek değeri 0 olarak atayalım.
-        int closeLowValue = 0;
-        int closeHighValue = 0;
+        Scanner input = new Scanner(System.in); // Kullanıcıdan değer almak için Scanner tanıtalım
 
-        // Formülü yazalım.
-        for (int i = 0; i < userValue + 1; i++) {
-            closeLowValue = list[userValue - 1];
-            closeHighValue = list[userValue + 1];
+        System.out.print("Bir değer giriniz : ");
+        int num = input.nextInt();
+
+        // Alınan Değere göre işlem yapalım
+        if (num > list.length){
+            System.out.println("Hatalı sayı indeksi girdiniz. tekrar deneyiniz.");
+        }else {
+
+            int lowNumber = 0;
+            int highNumber = 0;
+            for (int i = 0; i < num; i++){
+                lowNumber = list[num - 1];
+                highNumber = list[num];
+            }
+            System.out.println("Girilen sayı : " + num+
+                    "\nGirilen sayıdan küçük en yakın sayı : "+lowNumber+
+                    "\nGirilen sayıdan büyük en yakın sayı : "+highNumber );
         }
 
-        // Ekrana yazdıralım.
-        System.out.println("Girilen sayı : " + userValue +
-                "\nGirilen sayıdan en küçük sayı : " + closeLowValue +
-                "\nGirilen sayıdan en büyük sayı : " + closeHighValue);
+
 
 
     }

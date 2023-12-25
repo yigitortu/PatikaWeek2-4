@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98fa8cdf-a3ff-496a-9f47-1c4d2362af38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Patika/ilkrepo/src/patikailkrepo/firstpushforgithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patika/ilkrepo/src/patikailkrepo/firstpushforgithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysSinifiVeMetotlari/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysSinifiVeMetotlari/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysSinifiVeMetotlari/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysSinifiVeMetotlari/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysSinifiVeMetotlari/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysSinifiVeMetotlari/arraysSinifiVeMetotlari.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysSinifiVeMetotlari/src/HelperArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysSinifiVeMetotlari/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dizilerDeneme.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forEachKullanimi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forEachKullanimi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forEachKullanimi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forEachKullanimi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forEachKullanimi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forEachKullanimi/forEachKullanimi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forEachKullanimi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harmonikSayilar/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harmonikSayilar/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../denem1notortalama/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../denem1notortalama/denem1notortalama.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../denem1notortalama/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java101/src/Giris/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java101/src/Giris/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ZuizYyvzpvZMq37UFU4K6rdltq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/yigit/IdeaProjects/PatikaHafta2-4/dizilerDeneme/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="dizilerDeneme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fa8cdf-a3ff-496a-9f47-1c4d2362af38" name="Changes" comment="" />
+      <created>1703278629878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703278629878</updated>
+    </task>
+    <servers />
+  </component>
+</project>
